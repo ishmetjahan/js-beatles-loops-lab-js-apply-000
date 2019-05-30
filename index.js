@@ -8,6 +8,7 @@ function theBeatlesPlay (arrMus,arrInst){
 }
 //
 //
+//
 function johnLennonFacts (arrFac){
   let newArr= []
   let i=0
@@ -17,4 +18,15 @@ function johnLennonFacts (arrFac){
   }
   return newArr
   }
-  
+  //
+  //
+  //
+  function iLoveTheBeatles (num){
+    let fianlArr=[]
+    do{
+      fianlArr.push("I love the Beatles!")
+      count +=1
+    }while(count<15){
+    }
+    return finalArr
+  }
