@@ -26,7 +26,6 @@ function johnLennonFacts (arrFac){
     do{
       fianlArr.push("I love the Beatles!")
       count +=1
-    }while(count<15){
-    }
+    }while (count<15)
     return finalArr
   }
