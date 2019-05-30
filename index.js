@@ -23,8 +23,9 @@ function johnLennonFacts (arrFac){
   //
   function iLoveTheBeatles (num){
     let fianlArr=[]
+    let count=0
     do{
-      fianlArr.push("I love the Beatles!")
+      fianlArr.push("I love the Beatles!")+ count
       count +=1
     }while (count<15)
     return finalArr
