@@ -25,7 +25,7 @@ function johnLennonFacts (arrFac){
     let finalArr=[]
     let count=0
     do{
-      finalArr.push("I love the Beatles!")+ count
+      finalArr.push("I love the Beatles!")
       count +=1
     }while (count<15)
     return finalArr
