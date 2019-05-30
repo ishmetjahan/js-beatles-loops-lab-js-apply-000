@@ -6,3 +6,11 @@ function theBeatlesPlay (arrMus,arrInst){
   }
   return arr
 }
+//
+//
+function johnLennonFacts (arrFac){
+  let newStr= ""
+  for (let i=0; i<arrFac.length; i++){
+    newStr+=arrFac[i]
+  }
+}
