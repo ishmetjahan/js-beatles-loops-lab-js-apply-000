@@ -22,10 +22,10 @@ function johnLennonFacts (arrFac){
   //
   //
   function iLoveTheBeatles (num){
-    let fianlArr=[]
+    let finalArr=[]
     let count=0
     do{
-      fianlArr.push("I love the Beatles!")+ count
+      finalArr.push("I love the Beatles!")+ count
       count +=1
     }while (count<15)
     return finalArr
