@@ -9,7 +9,7 @@ function theBeatlesPlay (arrMus,arrInst){
 //
 //
 function johnLennonFacts (arrFac){
-  let newArr= {
+  let newArr= []
   let i=0
   while(newStr.length<arrFac.length){
     newArr.push(arrFac[i]+ "!!!")
