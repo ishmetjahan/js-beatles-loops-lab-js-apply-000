@@ -9,12 +9,12 @@ function theBeatlesPlay (arrMus,arrInst){
 //
 //
 function johnLennonFacts (arrFac){
-  let newStr= ""
+  let newArr= {
   let i=0
   while(newStr.length<arrFac.length){
-    newStr+=(arrFac[i]+ "!!!")
+    newArr.push(arrFac[i]+ "!!!")
     i++
   }
-  return newStr
+  return newArr
   }
   
